@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Swee Sen</h1>
 <h3 align="center">A passionate coder</h3>
 
-- 👨‍💻 All of my projects are available at [sweesen.com](sweesen.com)
+- 👨‍💻 All of my projects are available at [https://sweesen.com](sweesen.com)
 
-- 📝 I regulary write articles on [dev.to/sweesenkoh/](dev.to/sweesenkoh/)
+- 📝 I regulary write articles on [https://dev.to/sweesenkoh/](dev.to/sweesenkoh/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
