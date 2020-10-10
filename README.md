@@ -7,6 +7,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI: Use Enum for ActionSheet Selection](https://dev.to/sweesenkoh/swiftui-use-enum-for-actionsheet-selection-4p8e)
+- [Swift: Text to Speech in any Language](https://dev.to/sweesenkoh/swift-text-to-speech-in-any-language-4k37)
+- [SwiftUI: How to use List with ObservableObject](https://dev.to/sweesenkoh/swiftui-how-to-use-list-with-observableobject-5d87)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
