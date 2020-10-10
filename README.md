@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [sweesen.com](https://sweesen.com)
 
-- 📝 I regulary write articles on [dev.to/sweesenkoh/](https://dev.to/sweesenkoh/)
+- 📝 I regulary write articles on [dev.to](https://dev.to/sweesenkoh/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
